@@ -30,6 +30,4 @@
 
 - **HTML5** — Semantic and structured markup
 - **Tailwind CSS** — Utility-first CSS framework for rapid styling
-- **JavaScript** *(Optional/Minimal)* — Interactivity and behavior enhancements
-
 ---
